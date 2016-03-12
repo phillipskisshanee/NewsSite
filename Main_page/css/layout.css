@@ -17,17 +17,15 @@
   left: 0;
   padding: 10px 10px 0 10px;
   border-bottom: 2px #000000;
-  background-image: url("../img/heading2.jpg");
-  background-repeat: no-repeat;
   background-position: center; 
-  background-color: #7fae21;
+  background-color: #78B7CC;
 }
 
 .main-content {
   margin-top: 300px;
   width: 1500px;
-  background-image: url("../img/background.jpg");
-  background-size: 1500px 1500px;
+  background-color: #60E0BA;
+  background-size: 960px 960px;
   background-repeat: no-repeat;
 }
 .footer {
