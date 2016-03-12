@@ -12,18 +12,19 @@
 .page-heading {
   position: fixed;
   width: 100%;
-  height: 400px;
+  height: 200px;
   top: 0;
   left: 0;
   padding: 10px 10px 0 10px;
   border-bottom: 2px #000000;
+  background-image: url("../images/001.jpg");
   background-position: center; 
   background-color: #78B7CC;
 }
 
 .main-content {
   margin-top: 300px;
-  width: 1500px;
+  width: 960px;
   background-color: #ABCCC2;
   background-size: 960px 960px;
   background-repeat: no-repeat;
