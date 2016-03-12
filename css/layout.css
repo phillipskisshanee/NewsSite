@@ -8,7 +8,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; 
-  background-image: url(../gifs/001.gif) no repeat, url(../gifs/002.gif) no repeat, url(../gifs/003.gif) no repeat, url(../gifs/004.gif) no repeat, url(../gifs/005.gif) no repeat;
+  background-image: url(""../gifs/001.gif") no repeat, url("../gifs/002.gif") no repeat, url("../gifs/003.gif") no repeat, url("../gifs/004.gif") no repeat, url("../gifs/005.gif") no repeat;
 }
 
 .btn {
