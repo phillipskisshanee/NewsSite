@@ -1,15 +1,8 @@
 * {
   box-sizing: border-box; }
 
-body {
-  padding: 0;
-  margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #606c71; }
-  
-  .box {
+
+.box {
   padding: 20px 20px;
   margin: 5px;
   border: 10px #000000;
@@ -19,12 +12,24 @@ body {
 .heading {
   position: fixed;
   width: 100%;
+  height: 400px;
   top: 0;
   left: 0;
   padding: 10px 10px 0 10px;
   border-bottom: 2px #000000;
+  background-image: url("../img/heading2.jpg");
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-color: #7fae21;
 }
 
+.main-content {
+  margin-top: 300px;
+  width: 1500px;
+  background-image: url("../img/background.jpg");
+  background-size: 1500px 1500px;
+  background-repeat: no-repeat;
+}
 .footer {
   border-top: 2px #000000;
   padding: 10px 10px 0 10px;
