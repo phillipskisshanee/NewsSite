@@ -8,6 +8,13 @@
   border: 20px #cccccc;
 }
 
+.box grid_4 {
+  height: 500px;
+  margin: 5 px;
+  padding: 30px 30px;
+  border: 20px #cccccc;
+}
+
 
 .page-heading {
   position: fixed;
