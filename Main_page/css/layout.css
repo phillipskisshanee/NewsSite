@@ -8,6 +8,11 @@
   border: 20px #cccccc;
 }
 
+
+img {
+  width:100%;
+}
+
 .box grid_4 {
   height: 500px;
   margin: 20px;
