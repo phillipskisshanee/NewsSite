@@ -32,13 +32,13 @@
 
 .main-content {
   width: 960px;
-  height: 2000px;
+  height: 4000px;
   margin-top: 300px;
   margin-left: auto;
   margin-right: auto
   text-align: center;
   background-color: #ABCCC2;
-  background-size: 3000px 1200px;
+  background-size: 5000px 1200px;
   background-repeat: no-repeat;
 }
 .site-footer {
