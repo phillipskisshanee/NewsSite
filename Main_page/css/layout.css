@@ -17,17 +17,17 @@
   left: 0;
   padding: 10px 10px 0 10px;
   border-bottom: 2px #000000;
-  background-image: url("../../images/001.jpg");
+  background-image: url("../images/001.jpg");
   background-repeat: no-repeat;
   background-position: center; 
   background-color: #78B7CC;
 }
 
 .main-content {
+  width: 1500px;
   margin-top: 300px;
   margin-left: auto;
   margin-right: auto
-  width: 1500px;
   text-align: center;
   background-color: #ABCCC2;
   background-size: 1200px 1200px;
