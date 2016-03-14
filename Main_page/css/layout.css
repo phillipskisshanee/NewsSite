@@ -39,6 +39,12 @@ img {
   float: right;
 }
 
+.project-tagline {
+  text-align: center;
+  position: relative ;
+  top: 350px;
+  left: 100px;
+}
 .main-content {
   width: 960px;
   height: 4000px;
