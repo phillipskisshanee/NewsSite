@@ -35,6 +35,10 @@ img {
   background-color: #78B7CC;
 }
 
+.project-name {
+  float: right;
+}
+
 .main-content {
   width: 960px;
   height: 4000px;
